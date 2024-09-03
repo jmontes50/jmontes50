@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jorge Montesinos</h1>
-<h3 align="center">A passionate Web Developer avocated to Learn Things and Education</h3>
+<h3 align="center">A passionate Fullstack Developer, AI Enthusiast avocated to Learn Things and Education</h3>
 
 - 🔭 I’m currently working at **Tecsup**
 
-- 🌱 I’m currently working on a  **ADHD Helper**
+- 🌱 I’m currently working on a **ADHD Helper**
 
 - 👯 I’m looking to collaborate on **Social, Education Projects**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.jorgemontesinos.com" target="_blank"> Website</a> or <a href="https://www.linkedin.com/in/osmarmontesinos/" target="_blank">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
