@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jorge Montesinos</h1>
 <h3 align="center">A passionate Web Developer avocated to Learn Things and Education</h3>
 
-- 🔭 I’m currently working on **Tecsup**
+- 🔭 I’m currently working at **Tecsup**
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently working on a  **ADHD Helper**
 
 - 👯 I’m looking to collaborate on **Social, Education Projects**
 
